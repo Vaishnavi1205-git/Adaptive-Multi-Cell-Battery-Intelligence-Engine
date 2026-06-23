@@ -1,0 +1,53 @@
+===== BATTERY REPORT =====
+Cell 1: 4.01 V
+Cell 2: 4.00 V
+Cell 3: 4.02 V
+Cell 4: 4.00 V
+Pack Voltage: 16.03
+Average Voltage: 4.01
+Strongest Cell: 3
+Weakest Cell: 2
+Imbalance: 0.50 %
+Health Status: HEALTHY
+==========================
+
+===== BATTERY REPORT =====
+Cell 1: 4.12 V
+Cell 2: 4.00 V
+Cell 3: 4.07 V
+Cell 4: 4.05 V
+Pack Voltage: 16.24
+Average Voltage: 4.06
+Strongest Cell: 1
+Weakest Cell: 2
+Imbalance: 2.91 %
+Health Status: MINOR IMBALANCE
+==========================
+
+===== BATTERY REPORT =====
+Cell 1: 4.21 V
+Cell 2: 3.98 V
+Cell 3: 4.15 V
+Cell 4: 3.96 V
+Pack Voltage: 16.30
+Average Voltage: 4.08
+Strongest Cell: 1
+Weakest Cell: 4
+Imbalance: 5.94 %
+Health Status: CRITICAL IMBALANCE
+WARNING: OVER-VOLTAGE DETECTED!
+==========================
+
+===== BATTERY REPORT =====
+Cell 1: 4.30 V
+Cell 2: 3.85 V
+Cell 3: 4.10 V
+Cell 4: 3.75 V
+Pack Voltage: 16.00
+Average Voltage: 4.00
+Strongest Cell: 1
+Weakest Cell: 4
+Imbalance: 12.79 %
+Health Status: PACK FAILURE
+WARNING: OVER-VOLTAGE DETECTED!
+==========================

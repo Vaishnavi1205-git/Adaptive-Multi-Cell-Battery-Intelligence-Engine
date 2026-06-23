@@ -1,0 +1,30 @@
+# Arduino/C++ Build Outputs
+build/
+.build/
+*.hex
+*.elf
+*.bin
+*.d
+*.o
+
+# IDE/VS Code configurations
+.vscode/
+.clang-tidy
+.project
+.cproject
+.settings/
+
+# OS specific files
+Thumbs.db
+.DS_Store
+
+# Python virtual environment and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+env/
+venv/
+.ipynb_checkpoints/

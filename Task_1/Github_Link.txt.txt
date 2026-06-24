@@ -1,0 +1,4 @@
+Adaptive Multi-Cell Battery Intelligence Engine
+
+GitHub Repository:
+https://github.com/Vaishnavi1205-git/Adaptive-Multi-Cell-Battery-Intelligence-Engine

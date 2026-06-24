@@ -1,0 +1,4 @@
+Adaptive Multi-Cell Battery Intelligence Engine
+
+Wokwi Simulation:
+https://wokwi.com/projects/466606851939414017
